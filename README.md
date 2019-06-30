@@ -17,6 +17,8 @@ It´s a solid base which will help to understand webpack [core concepts](https:/
 
 ## Getting Started
 
+To start you can simply [download](https://github.com/FerJSsilva/webpack-4-react-boilerplate/archive/master.zip) the boilerplate and unzip it into your working directory. You can also clone if you want to contribute.
+
 ### Prerequisites
 
 * Node.js v8 or above
@@ -94,6 +96,8 @@ For major changes, please open an issue first to discuss what you would like to 
 
 * v1.0 - A complete webpack 4 configuration
 * v1.1 - Production build optimization
+
+Click [here](https://github.com/FerJSsilva/webpack-4-react-boilerplate/tags) to see or download the project in a specific tag.
 
 ## License
 

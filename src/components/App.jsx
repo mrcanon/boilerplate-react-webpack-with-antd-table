@@ -1,10 +1,10 @@
 import React, { Component } from 'react'
-import TableEditable from './TableEditable'
+import TableCustom from './TableCustom'
 
 class App extends Component {
   render() {
     return (
-      <TableEditable/>
+      <TableCustom/>
     )
   }
 }
